@@ -15,7 +15,7 @@ Team Members:
 
 # Track:  Interactive Dashboard with a Player Search.
 
-Extract and clean   FIFA players dataset  from KAGGLE and countries latitude/longitude dataset from GOOGLE Developer pushing its into MySQL database through Python and  then use its to create an interactive webpage using Flask, JavaScript and HTML.
+Extract and clean   FIFA players dataset  from KAGGLE and  latitude/longitude dataset from GOOGLE pushing its into MySQL database through Python and  then use it to create an interactive webpage using Flask, JavaScript and HTML.
 
 
 
