@@ -1,5 +1,4 @@
 # Project_3
-Project 3
 
 Team Members:
 1. Elmaddin Karimov
@@ -10,8 +9,8 @@ Team Members:
 TOPIC: FIFA Players Analysis
 
 DATA SETS: 
-KAGGLE, Player Stats: https://www.kaggle.com/karangadiya/fifa19
-Google Developer: https://developers.google.com/public-data/docs/canonical/countries_csv
+# KAGGLE, Player Stats: https://www.kaggle.com/karangadiya/fifa19
+# Google Developer: https://developers.google.com/public-data/docs/canonical/countries_csv
 
 Track:  Interactive Dashboard with a Player Search.
 
