@@ -6,11 +6,12 @@ Team Members:
 3. Rustem Bogdanov
 
 
-TOPIC: FIFA Players Analysis
+# TOPIC: FIFA Players Analysis
 
-DATA SETS: 
-# KAGGLE, Player Stats: https://www.kaggle.com/karangadiya/fifa19
-# Google Developer: https://developers.google.com/public-data/docs/canonical/countries_csv
+# DATA SETS: 
+ KAGGLE, Player Stats: https://www.kaggle.com/karangadiya/fifa19
+ 
+ Latitudes and longitudes of contruies: https://developers.google.com/public-data/docs/canonical/countries_csv
 
 Track:  Interactive Dashboard with a Player Search.
 
