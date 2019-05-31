@@ -11,9 +11,9 @@ Team Members:
 # DATA SETS: 
  KAGGLE, Player Stats: https://www.kaggle.com/karangadiya/fifa19
  
- Latitudes and longitudes of contruies: https://developers.google.com/public-data/docs/canonical/countries_csv
+ Latitudes and longitudes of countries: https://developers.google.com/public-data/docs/canonical/countries_csv
 
-Track:  Interactive Dashboard with a Player Search.
+# Track:  Interactive Dashboard with a Player Search.
 
 Extract and clean   FIFA players dataset  from KAGGLE and countries latitude/longitude dataset from GOOGLE Developer pushing its into MySQL database through Python and  then use its to create an interactive webpage using Flask, JavaScript and HTML.
 
