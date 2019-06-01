@@ -19,7 +19,11 @@ Extract and clean   FIFA players dataset  from KAGGLE and  latitude/longitude da
 
 
 
-
+Template Changes:
+(1) Sort by Fifa Clubs
+(2) _People (integer)_ change to total salary of club
+(3) _Sensor People Counting Monitor_  change to Age (bar graph to line salary)
+(4) _Sensor CPU Monitor_ change to where the player is born (edited)
  
 
 
