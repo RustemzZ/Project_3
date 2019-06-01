@@ -1,0 +1,501 @@
+ID,Name,Age,Photo,Country,Latitude,Longitude,Club,Value,Wage,Release Clause
+158023,L. Messi,31,https://cdn.sofifa.org/players/4/19/158023.png,Argentina,-38.416097,-63.616671999999994,FC Barcelona,€110.5M,€565K,€226.5M
+20801,Cristiano Ronaldo,33,https://cdn.sofifa.org/players/4/19/20801.png,Portugal,39.399871999999995,-8.224454,Juventus,€77M,€405K,€127.1M
+190871,Neymar Jr,26,https://cdn.sofifa.org/players/4/19/190871.png,Brazil,-14.235004,-51.92528,Paris Saint-Germain,€118.5M,€290K,€228.1M
+193080,De Gea,27,https://cdn.sofifa.org/players/4/19/193080.png,Spain,40.463667,-3.7492199999999998,Manchester United,€72M,€260K,€138.6M
+192985,K. De Bruyne,27,https://cdn.sofifa.org/players/4/19/192985.png,Belgium,50.503887,4.469936,Manchester City,€102M,€355K,€196.4M
+183277,E. Hazard,27,https://cdn.sofifa.org/players/4/19/183277.png,Belgium,50.503887,4.469936,Chelsea,€93M,€340K,€172.1M
+177003,L. Modrić,32,https://cdn.sofifa.org/players/4/19/177003.png,Croatia,45.1,15.2,Real Madrid,€67M,€420K,€137.4M
+176580,L. Suárez,31,https://cdn.sofifa.org/players/4/19/176580.png,Uruguay,-32.522779,-55.765834999999996,FC Barcelona,€80M,€455K,€164M
+155862,Sergio Ramos,32,https://cdn.sofifa.org/players/4/19/155862.png,Spain,40.463667,-3.7492199999999998,Real Madrid,€51M,€380K,€104.6M
+200389,J. Oblak,25,https://cdn.sofifa.org/players/4/19/200389.png,Slovenia,46.151241,14.995463,Atlético Madrid,€68M,€94K,€144.5M
+188545,R. Lewandowski,29,https://cdn.sofifa.org/players/4/19/188545.png,Poland,51.919438,19.145135999999997,FC Bayern München,€77M,€205K,€127.1M
+182521,T. Kroos,28,https://cdn.sofifa.org/players/4/19/182521.png,Germany,51.165690999999995,10.451526,Real Madrid,€76.5M,€355K,€156.8M
+182493,D. Godín,32,https://cdn.sofifa.org/players/4/19/182493.png,Uruguay,-32.522779,-55.765834999999996,Atlético Madrid,€44M,€125K,€90.2M
+168542,David Silva,32,https://cdn.sofifa.org/players/4/19/168542.png,Spain,40.463667,-3.7492199999999998,Manchester City,€60M,€285K,€111M
+215914,N. Kanté,27,https://cdn.sofifa.org/players/4/19/215914.png,France,46.227638,2.213749,Chelsea,€63M,€225K,€121.3M
+211110,P. Dybala,24,https://cdn.sofifa.org/players/4/19/211110.png,Argentina,-38.416097,-63.616671999999994,Juventus,€89M,€205K,€153.5M
+194765,A. Griezmann,27,https://cdn.sofifa.org/players/4/19/194765.png,France,46.227638,2.213749,Atlético Madrid,€78M,€145K,€165.8M
+192448,M. ter Stegen,26,https://cdn.sofifa.org/players/4/19/192448.png,Germany,51.165690999999995,10.451526,FC Barcelona,€58M,€240K,€123.3M
+192119,T. Courtois,26,https://cdn.sofifa.org/players/4/19/192119.png,Belgium,50.503887,4.469936,Real Madrid,€53.5M,€240K,€113.7M
+189511,Sergio Busquets,29,https://cdn.sofifa.org/players/4/19/189511.png,Spain,40.463667,-3.7492199999999998,FC Barcelona,€51.5M,€315K,€105.6M
+179813,E. Cavani,31,https://cdn.sofifa.org/players/4/19/179813.png,Uruguay,-32.522779,-55.765834999999996,Paris Saint-Germain,€60M,€200K,€111M
+167495,M. Neuer,32,https://cdn.sofifa.org/players/4/19/167495.png,Germany,51.165690999999995,10.451526,FC Bayern München,€38M,€130K,€62.7M
+153079,S. Agüero,30,https://cdn.sofifa.org/players/4/19/153079.png,Argentina,-38.416097,-63.616671999999994,Manchester City,€64.5M,€300K,€119.3M
+138956,G. Chiellini,33,https://cdn.sofifa.org/players/4/19/138956.png,Italy,41.87194,12.56738,Juventus,€27M,€215K,€44.6M
+231747,K. Mbappé,19,https://cdn.sofifa.org/players/4/19/231747.png,France,46.227638,2.213749,Paris Saint-Germain,€81M,€100K,€166.1M
+209331,M. Salah,26,https://cdn.sofifa.org/players/4/19/209331.png,Egypt,26.820553000000004,30.802497999999996,Liverpool,€69.5M,€255K,€137.3M
+200145,Casemiro,26,https://cdn.sofifa.org/players/4/19/200145.png,Brazil,-14.235004,-51.92528,Real Madrid,€59.5M,€285K,€126.4M
+198710,J. Rodríguez,26,https://cdn.sofifa.org/players/4/19/198710.png,Colombia,4.570868,-74.297333,FC Bayern München,€69.5M,€315K,
+198219,L. Insigne,27,https://cdn.sofifa.org/players/4/19/198219.png,Italy,41.87194,12.56738,Napoli,€62M,€165K,€105.4M
+197781,Isco,26,https://cdn.sofifa.org/players/4/19/197781.png,Spain,40.463667,-3.7492199999999998,Real Madrid,€73.5M,€315K,€156.2M
+190460,C. Eriksen,26,https://cdn.sofifa.org/players/4/19/190460.png,Denmark,56.26392,9.501785,Tottenham Hotspur,€73.5M,€205K,€141.5M
+189242,Coutinho,26,https://cdn.sofifa.org/players/4/19/189242.png,Brazil,-14.235004,-51.92528,FC Barcelona,€69.5M,€340K,€147.7M
+188567,P. Aubameyang,29,https://cdn.sofifa.org/players/4/19/188567.png,Gabon,-0.803689,11.609444,Arsenal,€59M,€265K,€112.1M
+178603,M. Hummels,29,https://cdn.sofifa.org/players/4/19/178603.png,Germany,51.165690999999995,10.451526,FC Bayern München,€46M,€160K,€75.9M
+176676,Marcelo,30,https://cdn.sofifa.org/players/4/19/176676.png,Brazil,-14.235004,-51.92528,Real Madrid,€43M,€285K,€88.2M
+167948,H. Lloris,31,https://cdn.sofifa.org/players/4/19/167948.png,France,46.227638,2.213749,Tottenham Hotspur,€36M,€150K,€66.6M
+167664,G. Higuaín,30,https://cdn.sofifa.org/players/4/19/167664.png,Argentina,-38.416097,-63.616671999999994,Milan,€57M,€245K,
+164240,Thiago Silva,33,https://cdn.sofifa.org/players/4/19/164240.png,Brazil,-14.235004,-51.92528,Paris Saint-Germain,€24M,€165K,€44.4M
+162835,S. Handanovič,33,https://cdn.sofifa.org/players/4/19/162835.png,Slovenia,46.151241,14.995463,Inter,€30M,€110K,€51M
+1179,G. Buffon,40,https://cdn.sofifa.org/players/4/19/1179.png,Italy,41.87194,12.56738,Paris Saint-Germain,€4M,€77K,€7.4M
+205600,S. Umtiti,24,https://cdn.sofifa.org/players/4/19/205600.png,France,46.227638,2.213749,FC Barcelona,€57M,€205K,€121.1M
+201399,M. Icardi,25,https://cdn.sofifa.org/players/4/19/201399.png,Argentina,-38.416097,-63.616671999999994,Inter,€64.5M,€130K,€114.5M
+201024,K. Koulibaly,27,https://cdn.sofifa.org/players/4/19/201024.png,Senegal,14.497401000000002,-14.452361999999999,Napoli,€51M,€115K,€90.5M
+195864,P. Pogba,25,https://cdn.sofifa.org/players/4/19/195864.png,France,46.227638,2.213749,Manchester United,€64M,€210K,€123.2M
+193041,K. Navas,31,https://cdn.sofifa.org/players/4/19/193041.png,Costa Rica,9.748917,-83.753428,Real Madrid,€30.5M,€195K,€62.5M
+192505,R. Lukaku,25,https://cdn.sofifa.org/players/4/19/192505.png,Belgium,50.503887,4.469936,Manchester United,€62.5M,€230K,€120.3M
+192387,C. Immobile,28,https://cdn.sofifa.org/players/4/19/192387.png,Italy,41.87194,12.56738,Lazio,€52M,€115K,€88.4M
+189332,Jordi Alba,29,https://cdn.sofifa.org/players/4/19/189332.png,Spain,40.463667,-3.7492199999999998,FC Barcelona,€38M,€250K,€77.9M
+175943,D. Mertens,31,https://cdn.sofifa.org/players/4/19/175943.png,Belgium,50.503887,4.469936,Napoli,€45M,€135K,€76.5M
+172871,J. Vertonghen,31,https://cdn.sofifa.org/players/4/19/172871.png,Belgium,50.503887,4.469936,Tottenham Hotspur,€34M,€155K,€62.9M
+171877,M. Hamšík,30,https://cdn.sofifa.org/players/4/19/171877.png,Slovakia,48.669026,19.699023999999998,Napoli,€46.5M,€125K,€79.1M
+168651,I. Rakitić,30,https://cdn.sofifa.org/players/4/19/168651.png,Croatia,45.1,15.2,FC Barcelona,€46.5M,€260K,€95.3M
+152729,Piqué,31,https://cdn.sofifa.org/players/4/19/152729.png,Spain,40.463667,-3.7492199999999998,FC Barcelona,€34M,€240K,€69.7M
+222492,L. Sané,22,https://cdn.sofifa.org/players/4/19/222492.png,Germany,51.165690999999995,10.451526,Manchester City,€61M,€195K,€125.1M
+218667,Bernardo Silva,23,https://cdn.sofifa.org/players/4/19/218667.png,Portugal,39.399871999999995,-8.224454,Manchester City,€59.5M,€180K,€114.5M
+210257,Ederson,24,https://cdn.sofifa.org/players/4/19/210257.png,Brazil,-14.235004,-51.92528,Manchester City,€41.5M,€125K,€79.9M
+208722,S. Mané,26,https://cdn.sofifa.org/players/4/19/208722.png,Senegal,14.497401000000002,-14.452361999999999,Liverpool,€52M,€195K,€102.7M
+203376,V. van Dijk,26,https://cdn.sofifa.org/players/4/19/203376.png,Netherlands,52.132633,5.291266,Liverpool,€44.5M,€165K,€87.9M
+201942,Roberto Firmino,26,https://cdn.sofifa.org/players/4/19/201942.png,Brazil,-14.235004,-51.92528,Liverpool,€53M,€195K,€104.7M
+201535,R. Varane,25,https://cdn.sofifa.org/players/4/19/201535.png,France,46.227638,2.213749,Real Madrid,€50M,€210K,€106.3M
+199556,M. Verratti,25,https://cdn.sofifa.org/players/4/19/199556.png,Italy,41.87194,12.56738,Paris Saint-Germain,€55M,€135K,€105.9M
+191043,Alex Sandro,27,https://cdn.sofifa.org/players/4/19/191043.png,Brazil,-14.235004,-51.92528,Juventus,€36.5M,€160K,€60.2M
+190483,Douglas Costa,27,https://cdn.sofifa.org/players/4/19/190483.png,Brazil,-14.235004,-51.92528,Juventus,€46.5M,€175K,€76.7M
+189596,T. Müller,28,https://cdn.sofifa.org/players/4/19/189596.png,Germany,51.165690999999995,10.451526,FC Bayern München,€45M,€135K,€74.3M
+189509,Thiago,27,https://cdn.sofifa.org/players/4/19/189509.png,Spain,40.463667,-3.7492199999999998,FC Bayern München,€45.5M,€130K,€75.1M
+188350,M. Reus,29,https://cdn.sofifa.org/players/4/19/188350.png,Germany,51.165690999999995,10.451526,Borussia Dortmund,€43.5M,€100K,€74M
+184432,Azpilicueta,28,https://cdn.sofifa.org/players/4/19/184432.png,Spain,40.463667,-3.7492199999999998,Chelsea,€35M,€175K,€64.8M
+184344,L. Bonucci,31,https://cdn.sofifa.org/players/4/19/184344.png,Italy,41.87194,12.56738,Juventus,€30M,€160K,€49.5M
+184087,T. Alderweireld,29,https://cdn.sofifa.org/players/4/19/184087.png,Belgium,50.503887,4.469936,Tottenham Hotspur,€39M,€150K,€75.1M
+177509,M. Benatia,31,https://cdn.sofifa.org/players/4/19/177509.png,Morocco,31.791702,-7.09262,Juventus,€30M,€160K,€49.5M
+176635,M. Özil,29,https://cdn.sofifa.org/players/4/19/176635.png,Germany,51.165690999999995,10.451526,Arsenal,€43.5M,€190K,€82.7M
+135507,Fernandinho,33,https://cdn.sofifa.org/players/4/19/135507.png,Brazil,-14.235004,-51.92528,Manchester City,€18M,€185K,€33.3M
+41,Iniesta,34,https://cdn.sofifa.org/players/4/19/41.png,Spain,40.463667,-3.7492199999999998,Vissel Kobe,€21.5M,€21K,€26.9M
+232363,M. Škriniar,23,https://cdn.sofifa.org/players/4/19/232363.png,Slovakia,48.669026,19.699023999999998,Inter,€46.5M,€82K,€88.4M
+223848,S. Milinković-Savić,23,https://cdn.sofifa.org/players/4/19/223848.png,Serbia,44.016521000000004,21.005859,Lazio,€50.5M,€73K,€89.6M
+220834,Marco Asensio,22,https://cdn.sofifa.org/players/4/19/220834.png,Spain,40.463667,-3.7492199999999998,Real Madrid,€54M,€215K,€121.5M
+216594,N. Fekir,24,https://cdn.sofifa.org/players/4/19/216594.png,France,46.227638,2.213749,Olympique Lyonnais,€50M,€92K,€98.8M
+212831,Alisson,25,https://cdn.sofifa.org/players/4/19/212831.png,Brazil,-14.235004,-51.92528,Liverpool,€36.5M,€115K,€72.1M
+212622,J. Kimmich,23,https://cdn.sofifa.org/players/4/19/212622.png,Germany,51.165690999999995,10.451526,FC Bayern München,€40.5M,€92K,€69.9M
+208421,Saúl,23,https://cdn.sofifa.org/players/4/19/208421.png,Spain,40.463667,-3.7492199999999998,Atlético Madrid,€50.5M,€77K,€107.3M
+204485,R. Mahrez,27,https://cdn.sofifa.org/players/4/19/204485.png,Algeria,28.033886,1.6596259999999998,Manchester City,€40.5M,€205K,€74.9M
+197445,D. Alaba,26,https://cdn.sofifa.org/players/4/19/197445.png,Austria,47.516231,14.550072,FC Bayern München,€38M,€110K,€65.6M
+193747,Koke,26,https://cdn.sofifa.org/players/4/19/193747.png,Spain,40.463667,-3.7492199999999998,Atlético Madrid,€45M,€88K,€95.6M
+193301,A. Lacazette,27,https://cdn.sofifa.org/players/4/19/193301.png,France,46.227638,2.213749,Arsenal,€45M,€180K,€88.9M
+192774,K. Manolas,27,https://cdn.sofifa.org/players/4/19/192774.png,Greece,39.074208,21.824312,Roma,€37.5M,€96K,€66.6M
+192366,N. Otamendi,30,https://cdn.sofifa.org/players/4/19/192366.png,Argentina,-38.416097,-63.616671999999994,Manchester City,€28.5M,€170K,€52.7M
+189513,Parejo,29,https://cdn.sofifa.org/players/4/19/189513.png,Spain,40.463667,-3.7492199999999998,Valencia CF,€37M,€66K,€77.7M
+187961,Paulinho,29,https://cdn.sofifa.org/players/4/19/187961.png,Brazil,-14.235004,-51.92528,Guangzhou Evergrande Taobao FC,€37M,€235K,
+186153,W. Szczęsny,28,https://cdn.sofifa.org/players/4/19/186153.png,Poland,51.919438,19.145135999999997,Juventus,€32M,€125K,€55.2M
+184941,A. Sánchez,29,https://cdn.sofifa.org/players/4/19/184941.png,Chile,-35.675146999999996,-71.542969,Manchester United,€37.5M,€215K,€69.4M
+184267,Y. Brahimi,28,https://cdn.sofifa.org/players/4/19/184267.png,Algeria,28.033886,1.6596259999999998,FC Porto,€39M,€28K,€78M
+183907,J. Boateng,29,https://cdn.sofifa.org/players/4/19/183907.png,Germany,51.165690999999995,10.451526,FC Bayern München,€30M,€115K,€49.5M
+181872,A. Vidal,31,https://cdn.sofifa.org/players/4/19/181872.png,Chile,-35.675146999999996,-71.542969,FC Barcelona,€26M,€205K,€53.3M
+181458,I. Perišić,29,https://cdn.sofifa.org/players/4/19/181458.png,Croatia,45.1,15.2,Inter,€37.5M,€110K,€63.8M
+179846,S. Khedira,31,https://cdn.sofifa.org/players/4/19/179846.png,Germany,51.165690999999995,10.451526,Juventus,€33M,€160K,€54.5M
+179844,Diego Costa,29,https://cdn.sofifa.org/players/4/19/179844.png,Spain,40.463667,-3.7492199999999998,Atlético Madrid,€38.5M,€100K,€78.9M
+178518,R. Nainggolan,30,https://cdn.sofifa.org/players/4/19/178518.png,Belgium,50.503887,4.469936,Inter,€35.5M,€105K,€60.4M
+171919,Naldo,35,https://cdn.sofifa.org/players/4/19/171919.png,Brazil,-14.235004,-51.92528,FC Schalke 04,€9M,€38K,€15.3M
+170890,B. Matuidi,31,https://cdn.sofifa.org/players/4/19/170890.png,France,46.227638,2.213749,Juventus,€26M,€145K,€42.9M
+168609,Miranda,33,https://cdn.sofifa.org/players/4/19/168609.png,Brazil,-14.235004,-51.92528,Inter,€15.5M,€96K,€26.4M
+165153,K. Benzema,30,https://cdn.sofifa.org/players/4/19/165153.png,France,46.227638,2.213749,Real Madrid,€37M,€240K,€75.9M
+164169,Filipe Luís,32,https://cdn.sofifa.org/players/4/19/164169.png,Brazil,-14.235004,-51.92528,Atlético Madrid,€21.5M,€81K,€44.1M
+139720,V. Kompany,32,https://cdn.sofifa.org/players/4/19/139720.png,Belgium,50.503887,4.469936,Manchester City,€22M,€170K,€40.7M
+120533,Pepe,35,https://cdn.sofifa.org/players/4/19/120533.png,Portugal,39.399871999999995,-8.224454,Beşiktaş JK,€9M,€57K,€17.1M
+41236,Z. Ibrahimović,36,https://cdn.sofifa.org/players/4/19/41236.png,Sweden,60.128161,18.643501,LA Galaxy,€14M,€15K,€21M
+220793,D. Sánchez,22,https://cdn.sofifa.org/players/4/19/220793.png,Colombia,4.570868,-74.297333,Tottenham Hotspur,€34M,€105K,€65.5M
+216460,J. Giménez,23,https://cdn.sofifa.org/players/4/19/216460.png,Uruguay,-32.522779,-55.765834999999996,Atlético Madrid,€34M,€63K,€72.3M
+212462,Alex Telles,25,https://cdn.sofifa.org/players/4/19/212462.png,Brazil,-14.235004,-51.92528,FC Porto,€32M,€22K,€66.4M
+212218,A. Laporte,24,https://cdn.sofifa.org/players/4/19/212218.png,France,46.227638,2.213749,Manchester City,€34M,€135K,€65.5M
+212198,Bruno Fernandes,23,https://cdn.sofifa.org/players/4/19/212198.png,Portugal,39.399871999999995,-8.224454,Sporting CP,€40.5M,€22K,€84M
+212190,N. Süle,22,https://cdn.sofifa.org/players/4/19/212190.png,Germany,51.165690999999995,10.451526,FC Bayern München,€36.5M,€84K,€67.5M
+211300,A. Martial,22,https://cdn.sofifa.org/players/4/19/211300.png,France,46.227638,2.213749,Manchester United,€42.5M,€165K,€87.1M
+209499,Fabinho,24,https://cdn.sofifa.org/players/4/19/209499.png,Brazil,-14.235004,-51.92528,Liverpool,€34M,€120K,€67.2M
+207865,Marquinhos,24,https://cdn.sofifa.org/players/4/19/207865.png,Brazil,-14.235004,-51.92528,Paris Saint-Germain,€35.5M,€90K,€68.3M
+207566,William Carvalho,26,https://cdn.sofifa.org/players/4/19/207566.png,Portugal,39.399871999999995,-8.224454,Real Betis,€31.5M,€38K,€68.5M
+205498,Jorginho,26,https://cdn.sofifa.org/players/4/19/205498.png,Italy,41.87194,12.56738,Chelsea,€38M,€155K,€73.2M
+204970,F. Thauvin,25,https://cdn.sofifa.org/players/4/19/204970.png,France,46.227638,2.213749,Olympique de Marseille,€39M,€72K,€77M
+204963,Carvajal,26,https://cdn.sofifa.org/players/4/19/204963.png,Spain,40.463667,-3.7492199999999998,Real Madrid,€31.5M,€185K,€66.9M
+202556,M. Depay,24,https://cdn.sofifa.org/players/4/19/202556.png,Netherlands,52.132633,5.291266,Olympique Lyonnais,€42M,€93K,€83M
+199482,A. Lopes,27,https://cdn.sofifa.org/players/4/19/199482.png,Portugal,39.399871999999995,-8.224454,Olympique Lyonnais,€25M,€72K,€49.4M
+198176,S. de Vrij,26,https://cdn.sofifa.org/players/4/19/198176.png,Netherlands,52.132633,5.291266,Inter,€31.5M,€88K,€55.9M
+198009,M. Perin,25,https://cdn.sofifa.org/players/4/19/198009.png,Italy,41.87194,12.56738,Juventus,€29.5M,€105K,€50.9M
+193082,J. Cuadrado,30,https://cdn.sofifa.org/players/4/19/193082.png,Colombia,4.570868,-74.297333,Juventus,€29.5M,€150K,€48.7M
+192629,Iago Aspas,30,https://cdn.sofifa.org/players/4/19/192629.png,Spain,40.463667,-3.7492199999999998,RC Celta,€30M,€45K,€63M
+192563,B. Leno,26,https://cdn.sofifa.org/players/4/19/192563.png,Germany,51.165690999999995,10.451526,Arsenal,€27M,€115K,€53.3M
+191202,N. Matić,29,https://cdn.sofifa.org/players/4/19/191202.png,Serbia,44.016521000000004,21.005859,Manchester United,€24M,€165K,€44.4M
+190941,L. Hrádecký,28,https://cdn.sofifa.org/players/4/19/190941.png,Finland,61.92411,25.748151,Bayer 04 Leverkusen,€22M,€74K,€37.4M
+190584,Illarramendi,28,https://cdn.sofifa.org/players/4/19/190584.png,Spain,40.463667,-3.7492199999999998,Real Sociedad,€31M,€51K,€65.1M
+186942,I. Gündoğan,27,https://cdn.sofifa.org/players/4/19/186942.png,Germany,51.165690999999995,10.451526,Manchester City,€32M,€175K,€59.2M
+185020,José Callejón,31,https://cdn.sofifa.org/players/4/19/185020.png,Spain,40.463667,-3.7492199999999998,Napoli,€27.5M,€105K,€46.8M
+183898,A. Di María,30,https://cdn.sofifa.org/players/4/19/183898.png,Argentina,-38.416097,-63.616671999999994,Paris Saint-Germain,€29.5M,€125K,€54.6M
+181783,M. Mandžukić,32,https://cdn.sofifa.org/players/4/19/181783.png,Croatia,45.1,15.2,Juventus,€25M,€160K,€41.3M
+180403,Willian,29,https://cdn.sofifa.org/players/4/19/180403.png,Brazil,-14.235004,-51.92528,Chelsea,€30.5M,€175K,€56.4M
+178750,Sergio Asenjo,29,https://cdn.sofifa.org/players/4/19/178750.png,Spain,40.463667,-3.7492199999999998,Villarreal CF,€24M,€42K,€52.2M
+178562,E. Banega,30,https://cdn.sofifa.org/players/4/19/178562.png,Argentina,-38.416097,-63.616671999999994,Sevilla FC,€29M,€31K,€60.9M
+177413,A. Witsel,29,https://cdn.sofifa.org/players/4/19/177413.png,Belgium,50.503887,4.469936,Borussia Dortmund,€24M,€77K,€40.8M
+177388,D. Payet,31,https://cdn.sofifa.org/players/4/19/177388.png,France,46.227638,2.213749,Olympique de Marseille,€27.5M,€75K,€52.3M
+176769,Jonas,34,https://cdn.sofifa.org/players/4/19/176769.png,Brazil,-14.235004,-51.92528,SL Benfica,€16.5M,€25K,€33M
+172879,Sokratis,30,https://cdn.sofifa.org/players/4/19/172879.png,Greece,39.074208,21.824312,Arsenal,€23M,€140K,€43.7M
+167628,S. Ruffier,31,https://cdn.sofifa.org/players/4/19/167628.png,France,46.227638,2.213749,AS Saint-Étienne,€19M,€41K,€36.1M
+167397,Falcao,32,https://cdn.sofifa.org/players/4/19/167397.png,Colombia,4.570868,-74.297333,AS Monaco,€25M,€115K,€47.5M
+163587,K. Schmeichel,31,https://cdn.sofifa.org/players/4/19/163587.png,Denmark,56.26392,9.501785,Leicester City,€19M,€78K,€36.1M
+157481,Raúl Albiol,32,https://cdn.sofifa.org/players/4/19/157481.png,Spain,40.463667,-3.7492199999999998,Napoli,€18M,€88K,€30.6M
+143076,A. Gómez,30,https://cdn.sofifa.org/players/4/19/143076.png,Argentina,-38.416097,-63.616671999999994,Atalanta,€30M,€53K,€51M
+137186,A. Barzagli,37,https://cdn.sofifa.org/players/4/19/137186.png,Italy,41.87194,12.56738,Juventus,€4.2M,€95K,€6.9M
+20775,Quaresma,34,https://cdn.sofifa.org/players/4/19/20775.png,Portugal,39.399871999999995,-8.224454,Beşiktaş JK,€15.5M,€80K,€29.5M
+9014,A. Robben,34,https://cdn.sofifa.org/players/4/19/9014.png,Netherlands,52.132633,5.291266,FC Bayern München,€15.5M,€110K,€25.6M
+231443,O. Dembélé,21,https://cdn.sofifa.org/players/4/19/231443.png,France,46.227638,2.213749,FC Barcelona,€40M,€155K,€90M
+230666,Gabriel Jesus,21,https://cdn.sofifa.org/players/4/19/230666.png,Brazil,-14.235004,-51.92528,Manchester City,€41M,€130K,€84.1M
+230481,Ronaldo Cabrais,26,https://cdn.sofifa.org/players/4/19/230481.png,Brazil,-14.235004,-51.92528,Grêmio,€28M,€51K,€50.4M
+230375,Josué Chiamulera,26,https://cdn.sofifa.org/players/4/19/230375.png,Brazil,-14.235004,-51.92528,Grêmio,€22.5M,€43K,€40.5M
+230294,Louri Beretta,26,https://cdn.sofifa.org/players/4/19/230294.png,Brazil,-14.235004,-51.92528,Atlético Mineiro,€28.5M,€60K,€54.2M
+225850,P. Kimpembe,22,https://cdn.sofifa.org/players/4/19/225850.png,France,46.227638,2.213749,Paris Saint-Germain,€30.5M,€82K,€62.5M
+220971,N. Keïta,23,https://cdn.sofifa.org/players/4/19/220971.png,Guinea,9.945587,-9.696645,Liverpool,€34M,€120K,€67.2M
+219683,C. Tolisso,23,https://cdn.sofifa.org/players/4/19/219683.png,France,46.227638,2.213749,FC Bayern München,€34M,€85K,€58.7M
+213565,T. Lemar,22,https://cdn.sofifa.org/players/4/19/213565.png,France,46.227638,2.213749,Atlético Madrid,€35.5M,€64K,€79.9M
+213345,K. Coman,22,https://cdn.sofifa.org/players/4/19/213345.png,France,46.227638,2.213749,FC Bayern München,€34M,€85K,€58.7M
+213331,J. Tah,22,https://cdn.sofifa.org/players/4/19/213331.png,Germany,51.165690999999995,10.451526,Bayer 04 Leverkusen,€29.5M,€67K,€52.4M
+212523,Anderson Talisca,24,https://cdn.sofifa.org/players/4/19/212523.png,Brazil,-14.235004,-51.92528,Guangzhou Evergrande Taobao FC,€36.5M,€18K,
+212188,T. Werner,22,https://cdn.sofifa.org/players/4/19/212188.png,Germany,51.165690999999995,10.451526,RB Leipzig,€34.5M,€70K,€61.2M
+210008,A. Rabiot,23,https://cdn.sofifa.org/players/4/19/210008.png,France,46.227638,2.213749,Paris Saint-Germain,€33M,€91K,€63.5M
+209658,L. Goretzka,23,https://cdn.sofifa.org/players/4/19/209658.png,Germany,51.165690999999995,10.451526,FC Bayern München,€34M,€85K,€58.7M
+208808,Q. Promes,26,https://cdn.sofifa.org/players/4/19/208808.png,Netherlands,52.132633,5.291266,Sevilla FC,€30.5M,€28K,€66.3M
+208670,H. Ziyech,25,https://cdn.sofifa.org/players/4/19/208670.png,Morocco,31.791702,-7.09262,Ajax,€32.5M,€28K,€47.9M
+208618,Lucas Vázquez,27,https://cdn.sofifa.org/players/4/19/208618.png,Spain,40.463667,-3.7492199999999998,Real Madrid,€27M,€205K,€55.4M
+208418,Y. Carrasco,24,https://cdn.sofifa.org/players/4/19/208418.png,Belgium,50.503887,4.469936,Dalian YiFang FC,€33M,€20K,€73.4M
+208093,Gerard Moreno,26,https://cdn.sofifa.org/players/4/19/208093.png,Spain,40.463667,-3.7492199999999998,Villarreal CF,€32M,€53K,€69.6M
+207863,Felipe,29,https://cdn.sofifa.org/players/4/19/207863.png,Brazil,-14.235004,-51.92528,FC Porto,€20M,€22K,€40M
+207410,M. Kovačić,24,https://cdn.sofifa.org/players/4/19/207410.png,Croatia,45.1,15.2,Chelsea,€35M,€165K,
+206585,Kepa,23,https://cdn.sofifa.org/players/4/19/206585.png,Spain,40.463667,-3.7492199999999998,Chelsea,€28.5M,€84K,€58.4M
+206545,Manu Trigueros,26,https://cdn.sofifa.org/players/4/19/206545.png,Spain,40.463667,-3.7492199999999998,Villarreal CF,€30M,€49K,€65.3M
+206113,S. Gnabry,22,https://cdn.sofifa.org/players/4/19/206113.png,Germany,51.165690999999995,10.451526,FC Bayern München,€34.5M,€85K,€59.5M
+204639,S. Savić,27,https://cdn.sofifa.org/players/4/19/204639.png,Montenegro,42.708678000000006,19.37439,Atlético Madrid,€26M,€67K,€55.3M
+202651,Suso,24,https://cdn.sofifa.org/players/4/19/202651.png,Spain,40.463667,-3.7492199999999998,Milan,€33M,€115K,€58.6M
+202166,J. Draxler,24,https://cdn.sofifa.org/players/4/19/202166.png,Germany,51.165690999999995,10.451526,Paris Saint-Germain,€32.5M,€91K,€62.6M
+201995,Felipe Anderson,25,https://cdn.sofifa.org/players/4/19/201995.png,Brazil,-14.235004,-51.92528,West Ham United,€31.5M,€110K,€62.2M
+200949,Lucas Moura,25,https://cdn.sofifa.org/players/4/19/200949.png,Brazil,-14.235004,-51.92528,Tottenham Hotspur,€31M,€115K,€59.7M
+200888,Danilo Pereira,26,https://cdn.sofifa.org/players/4/19/200888.png,Portugal,39.399871999999995,-8.224454,FC Porto,€27M,€21K,€56M
+200724,Nacho Fernández,28,https://cdn.sofifa.org/players/4/19/200724.png,Spain,40.463667,-3.7492199999999998,Real Madrid,€24.5M,€180K,€52.1M
+200316,T. Horn,25,https://cdn.sofifa.org/players/4/19/200316.png,Germany,51.165690999999995,10.451526,1. FC Köln,€24M,€25K,€37.8M
+199914,Allan,27,https://cdn.sofifa.org/players/4/19/199914.png,Brazil,-14.235004,-51.92528,Napoli,€26.5M,€87K,€45.1M
+199845,F. Acerbi,30,https://cdn.sofifa.org/players/4/19/199845.png,Italy,41.87194,12.56738,Lazio,€19M,€64K,€32.3M
+199564,Sergi Roberto,26,https://cdn.sofifa.org/players/4/19/199564.png,Spain,40.463667,-3.7492199999999998,FC Barcelona,€26.5M,€170K,€56.3M
+198329,Rodrigo,27,https://cdn.sofifa.org/players/4/19/198329.png,Spain,40.463667,-3.7492199999999998,Valencia CF,€30.5M,€57K,€66.3M
+197965,Pizzi,28,https://cdn.sofifa.org/players/4/19/197965.png,Portugal,39.399871999999995,-8.224454,SL Benfica,€25.5M,€22K,€51M
+195365,K. Kampl,27,https://cdn.sofifa.org/players/4/19/195365.png,Slovenia,46.151241,14.995463,RB Leipzig,€26.5M,€74K,€45.1M
+194404,Neto,28,https://cdn.sofifa.org/players/4/19/194404.png,Brazil,-14.235004,-51.92528,Valencia CF,€21M,€41K,€45.7M
+193698,O. Baumann,28,https://cdn.sofifa.org/players/4/19/193698.png,Germany,51.165690999999995,10.451526,TSG 1899 Hoffenheim,€21M,€42K,€37.3M
+193474,I. Gueye,28,https://cdn.sofifa.org/players/4/19/193474.png,Senegal,14.497401000000002,-14.452361999999999,Everton,€21M,€125K,€39.9M
+192883,H. Mkhitaryan,29,https://cdn.sofifa.org/players/4/19/192883.png,Armenia,40.069099,45.038189,Arsenal,€25.5M,€145K,€48.5M
+192638,Marcos Alonso,27,https://cdn.sofifa.org/players/4/19/192638.png,Spain,40.463667,-3.7492199999999998,Chelsea,€24M,€130K,€46.2M
+192593,D. Subašić,33,https://cdn.sofifa.org/players/4/19/192593.png,Croatia,45.1,15.2,AS Monaco,€13M,€70K,€24.7M
+190547,K. Glik,30,https://cdn.sofifa.org/players/4/19/190547.png,Poland,51.919438,19.145135999999997,AS Monaco,€19M,€86K,€36.1M
+189712,K. Strootman,28,https://cdn.sofifa.org/players/4/19/189712.png,Netherlands,52.132633,5.291266,Olympique de Marseille,€21M,€66K,€39.9M
+189068,B. Dost,29,https://cdn.sofifa.org/players/4/19/189068.png,Netherlands,52.132633,5.291266,Sporting CP,€26M,€26K,€52M
+188152,Oscar,26,https://cdn.sofifa.org/players/4/19/188152.png,Brazil,-14.235004,-51.92528,Shanghai SIPG FC,€30.5M,€29K,€69.4M
+186627,M. Balotelli,27,https://cdn.sofifa.org/players/4/19/186627.png,Italy,41.87194,12.56738,OGC Nice,€27.5M,€55K,€52.3M
+185221,Luiz Gustavo,30,https://cdn.sofifa.org/players/4/19/185221.png,Brazil,-14.235004,-51.92528,Olympique de Marseille,€19M,€63K,€36.1M
+184942,Giuliano,28,https://cdn.sofifa.org/players/4/19/184942.png,Brazil,-14.235004,-51.92528,Al Nassr,€26M,€64K,€44.2M
+179944,David Luiz,31,https://cdn.sofifa.org/players/4/19/179944.png,Brazil,-14.235004,-51.92528,Chelsea,€17.5M,€130K,€32.4M
+179783,R. Fährmann,29,https://cdn.sofifa.org/players/4/19/179783.png,Germany,51.165690999999995,10.451526,FC Schalke 04,€20M,€38K,€35.5M
+178088,Juan Mata,30,https://cdn.sofifa.org/players/4/19/178088.png,Spain,40.463667,-3.7492199999999998,Manchester United,€24.5M,€160K,€45.3M
+178086,Adán,31,https://cdn.sofifa.org/players/4/19/178086.png,Spain,40.463667,-3.7492199999999998,Atlético Madrid,€15.5M,€55K,€31.8M
+178005,Rui Patrício,30,https://cdn.sofifa.org/players/4/19/178005.png,Portugal,39.399871999999995,-8.224454,Wolverhampton Wanderers,€16.5M,€74K,€31.4M
+177683,Y. Sommer,29,https://cdn.sofifa.org/players/4/19/177683.png,Switzerland,46.818188,8.227511999999999,Borussia Mönchengladbach,€20M,€35K,€35.5M
+177610,Javi Martínez,29,https://cdn.sofifa.org/players/4/19/177610.png,Spain,40.463667,-3.7492199999999998,FC Bayern München,€20M,€94K,€33M
+177457,L. Bender,29,https://cdn.sofifa.org/players/4/19/177457.png,Germany,51.165690999999995,10.451526,Bayer 04 Leverkusen,€20M,€82K,€34M
+176266,Lucas Leiva,31,https://cdn.sofifa.org/players/4/19/176266.png,Brazil,-14.235004,-51.92528,Lazio,€17.5M,€64K,€29.8M
+163705,S. Mandanda,33,https://cdn.sofifa.org/players/4/19/163705.png,France,46.227638,2.213749,Olympique de Marseille,€13M,€51K,€24.7M
+162895,Cesc Fàbregas,31,https://cdn.sofifa.org/players/4/19/162895.png,Spain,40.463667,-3.7492199999999998,Chelsea,€22M,€140K,€40.7M
+162240,M. Dembélé,30,https://cdn.sofifa.org/players/4/19/162240.png,Belgium,50.503887,4.469936,Tottenham Hotspur,€24M,€120K,€44.4M
+156616,F. Ribéry,35,https://cdn.sofifa.org/players/4/19/156616.png,France,46.227638,2.213749,FC Bayern München,€11.5M,€72K,€19M
+104389,R. Jarstein,33,https://cdn.sofifa.org/players/4/19/104389.png,Norway,60.472024,8.468946,Hertha BSC,€13M,€33K,€22.1M
+53302,D. De Rossi,34,https://cdn.sofifa.org/players/4/19/53302.png,Italy,41.87194,12.56738,Roma,€8M,€80K,€13.6M
+24630,Pepe Reina,35,https://cdn.sofifa.org/players/4/19/24630.png,Spain,40.463667,-3.7492199999999998,Milan,€6M,€56K,€10.2M
+236583,J. Pavlenka,26,https://cdn.sofifa.org/players/4/19/236583.png,Czech Republic,49.817492,15.472961999999999,SV Werder Bremen,€19.5M,€30K,€34.6M
+235243,M. de Ligt,18,https://cdn.sofifa.org/players/4/19/235243.png,Netherlands,52.132633,5.291266,Ajax,€27M,€11K,€43.2M
+231866,Rodri,22,https://cdn.sofifa.org/players/4/19/231866.png,Spain,40.463667,-3.7492199999999998,Atlético Madrid,€29M,€59K,€61.6M
+230658,Arthur,21,https://cdn.sofifa.org/players/4/19/230658.png,Brazil,-14.235004,-51.92528,FC Barcelona,€32.5M,€125K,€73.1M
+230621,G. Donnarumma,19,https://cdn.sofifa.org/players/4/19/230621.png,Italy,41.87194,12.56738,Milan,€29M,€23K,€55.1M
+230258,Rosberto Dourado,30,https://cdn.sofifa.org/players/4/19/230258.png,Brazil,-14.235004,-51.92528,Atlético Mineiro,€16.5M,€46K,€31.4M
+230225,Juiano Mestres,34,https://cdn.sofifa.org/players/4/19/230225.png,Brazil,-14.235004,-51.92528,Cruzeiro,€6.5M,€39K,€12.4M
+230168,Raphaelito Anjos,30,https://cdn.sofifa.org/players/4/19/230168.png,Brazil,-14.235004,-51.92528,Grêmio,€14M,€32K,€25.2M
+227055,Gelson Martins,23,https://cdn.sofifa.org/players/4/19/227055.png,Portugal,39.399871999999995,-8.224454,Atlético Madrid,€29.5M,€59K,€62.7M
+224411,Gonçalo Guedes,21,https://cdn.sofifa.org/players/4/19/224411.png,Portugal,39.399871999999995,-8.224454,Valencia CF,€29M,€36K,€63.1M
+223959,L. Torreira,22,https://cdn.sofifa.org/players/4/19/223959.png,Uruguay,-32.522779,-55.765834999999996,Arsenal,€25M,€98K,€49.4M
+222737,Malcom,21,https://cdn.sofifa.org/players/4/19/222737.png,Brazil,-14.235004,-51.92528,FC Barcelona,€31.5M,€140K,€70.9M
+221087,Pau López,23,https://cdn.sofifa.org/players/4/19/221087.png,Spain,40.463667,-3.7492199999999998,Real Betis,€21.5M,€21K,€46.8M
+220814,L. Hernández,22,https://cdn.sofifa.org/players/4/19/220814.png,France,46.227638,2.213749,Atlético Madrid,€25.5M,€53K,€57.4M
+220440,C. Lenglet,23,https://cdn.sofifa.org/players/4/19/220440.png,France,46.227638,2.213749,FC Barcelona,€26M,€135K,€58.5M
+216354,A. Kramarić,27,https://cdn.sofifa.org/players/4/19/216354.png,Croatia,45.1,15.2,TSG 1899 Hoffenheim,€26M,€54K,€46.2M
+216194,Dani García,28,https://cdn.sofifa.org/players/4/19/216194.png,Spain,40.463667,-3.7492199999999998,Athletic Club de Bilbao,€20M,€33K,€43.5M
+212404,F. Bernardeschi,24,https://cdn.sofifa.org/players/4/19/212404.png,Italy,41.87194,12.56738,Juventus,€29.5M,€110K,€50.9M
+212194,J. Brandt,22,https://cdn.sofifa.org/players/4/19/212194.png,Germany,51.165690999999995,10.451526,Bayer 04 Leverkusen,€30.5M,€68K,€58M
+211320,D. Rugani,23,https://cdn.sofifa.org/players/4/19/211320.png,Italy,41.87194,12.56738,Juventus,€24.5M,€95K,€42.3M
+210617,Samu Castillejo,23,https://cdn.sofifa.org/players/4/19/210617.png,Spain,40.463667,-3.7492199999999998,Milan,€29M,€94K,€51.5M
+210514,João Cancelo,24,https://cdn.sofifa.org/players/4/19/210514.png,Portugal,39.399871999999995,-8.224454,Juventus,€25.5M,€95K,€47.2M
+210413,A. Romagnoli,23,https://cdn.sofifa.org/players/4/19/210413.png,Italy,41.87194,12.56738,Milan,€26.5M,€84K,€50.4M
+209989,T. Partey,25,https://cdn.sofifa.org/players/4/19/209989.png,Ghana,7.946527000000001,-1.0231940000000002,Atlético Madrid,€25.5M,€59K,€57.4M
+209297,Fred,25,https://cdn.sofifa.org/players/4/19/209297.png,Brazil,-14.235004,-51.92528,Manchester United,€26.5M,€140K,€51M
+208596,A. Belotti,24,https://cdn.sofifa.org/players/4/19/208596.png,Italy,41.87194,12.56738,Torino,€30M,€58K,€53.3M
+208448,E. Forsberg,26,https://cdn.sofifa.org/players/4/19/208448.png,Sweden,60.128161,18.643501,RB Leipzig,€26M,€67K,€46.2M
+207471,F. Vázquez,29,https://cdn.sofifa.org/players/4/19/207471.png,Argentina,-38.416097,-63.616671999999994,Sevilla FC,€21.5M,€27K,€45.2M
+205452,A. Rüdiger,25,https://cdn.sofifa.org/players/4/19/205452.png,Germany,51.165690999999995,10.451526,Chelsea,€22.5M,€110K,€43.3M
+203551,A. Florenzi,27,https://cdn.sofifa.org/players/4/19/203551.png,Italy,41.87194,12.56738,Roma,€20.5M,€73K,€36.4M
+202371,T. Meunier,26,https://cdn.sofifa.org/players/4/19/202371.png,Belgium,50.503887,4.469936,Paris Saint-Germain,€21M,€87K,€40.4M
+201956,S. Sané,27,https://cdn.sofifa.org/players/4/19/201956.png,Senegal,14.497401000000002,-14.452361999999999,FC Schalke 04,€18.5M,€41K,€31.5M
+201400,Rafinha,25,https://cdn.sofifa.org/players/4/19/201400.png,Brazil,-14.235004,-51.92528,FC Barcelona,€29.5M,€165K,€62.7M
+201305,Gabriel Paulista,27,https://cdn.sofifa.org/players/4/19/201305.png,Brazil,-14.235004,-51.92528,Valencia CF,€21M,€44K,€45.7M
+201153,Morata,25,https://cdn.sofifa.org/players/4/19/201153.png,Spain,40.463667,-3.7492199999999998,Chelsea,€28.5M,€135K,€54.9M
+199987,J. Cillessen,29,https://cdn.sofifa.org/players/4/19/199987.png,Netherlands,52.132633,5.291266,FC Barcelona,€18M,€135K,€38.3M
+199451,W. Ben Yedder,27,https://cdn.sofifa.org/players/4/19/199451.png,France,46.227638,2.213749,Sevilla FC,€23.5M,€28K,€49.4M
+198950,Pablo Sarabia,26,https://cdn.sofifa.org/players/4/19/198950.png,Spain,40.463667,-3.7492199999999998,Sevilla FC,€26M,€26K,€56.6M
+198706,Luis Alberto,25,https://cdn.sofifa.org/players/4/19/198706.png,Spain,40.463667,-3.7492199999999998,Lazio,€28.5M,€67K,€50.6M
+198164,Jonathan Viera,28,https://cdn.sofifa.org/players/4/19/198164.png,Spain,40.463667,-3.7492199999999998,Beijing Sinobo Guoan FC,€22.5M,€31K,€49.5M
+198141,Bartra,27,https://cdn.sofifa.org/players/4/19/198141.png,Spain,40.463667,-3.7492199999999998,Real Betis,€21M,€32K,€45.7M
+197655,S. Coates,27,https://cdn.sofifa.org/players/4/19/197655.png,Uruguay,-32.522779,-55.765834999999996,Sporting CP,€21M,€19K,€43.6M
+195093,Willian José,26,https://cdn.sofifa.org/players/4/19/195093.png,Brazil,-14.235004,-51.92528,Real Sociedad,€26.5M,€44K,€57.6M
+193525,Mário Fernandes,27,https://cdn.sofifa.org/players/4/19/193525.png,Russia,61.52401,105.31875600000001,PFC CSKA Moscow,€18.5M,€1K,€40.7M
+193469,Víctor Ruiz,29,https://cdn.sofifa.org/players/4/19/193469.png,Spain,40.463667,-3.7492199999999998,Villarreal CF,€19.5M,€43K,€42.4M
+193283,T. Delaney,26,https://cdn.sofifa.org/players/4/19/193283.png,Denmark,56.26392,9.501785,Borussia Dortmund,€21.5M,€61K,€38.2M
+192984,K. Casteels,26,https://cdn.sofifa.org/players/4/19/192984.png,Belgium,50.503887,4.469936,VfL Wolfsburg,€19.5M,€46K,€34.6M
+192318,M. Götze,26,https://cdn.sofifa.org/players/4/19/192318.png,Germany,51.165690999999995,10.451526,Borussia Dortmund,€27M,€67K,€47.9M
+192227,S. Mustafi,26,https://cdn.sofifa.org/players/4/19/192227.png,Germany,51.165690999999995,10.451526,Arsenal,€22.5M,€115K,€44.4M
+191180,J. Pastore,29,https://cdn.sofifa.org/players/4/19/191180.png,Argentina,-38.416097,-63.616671999999994,Roma,€21.5M,€84K,€36.6M
+189505,Pedro,30,https://cdn.sofifa.org/players/4/19/189505.png,Spain,40.463667,-3.7492199999999998,Chelsea,€21M,€140K,€38.9M
+189125,G. Bonaventura,28,https://cdn.sofifa.org/players/4/19/189125.png,Italy,41.87194,12.56738,Milan,€22M,€115K,€37.4M
+189117,R. Bürki,27,https://cdn.sofifa.org/players/4/19/189117.png,Switzerland,46.818188,8.227511999999999,Borussia Dortmund,€18.5M,€50K,€32.8M
+188803,Taison,30,https://cdn.sofifa.org/players/4/19/188803.png,Brazil,-14.235004,-51.92528,Shakhtar Donetsk,€21M,€1K,€44.1M
+187936,S. Nzonzi,29,https://cdn.sofifa.org/players/4/19/187936.png,France,46.227638,2.213749,Roma,€17M,€77K,€28.9M
+187754,Marlos,30,https://cdn.sofifa.org/players/4/19/187754.png,Ukraine,48.379433,31.16558,Shakhtar Donetsk,€21M,€1K,€44.1M
+185103,A. Kolarov,32,https://cdn.sofifa.org/players/4/19/185103.png,Serbia,44.016521000000004,21.005859,Roma,€12.5M,€73K,€21.3M
+184484,G. Sigurðsson,28,https://cdn.sofifa.org/players/4/19/184484.png,Iceland,64.96305100000001,-19.020835,Everton,€22.5M,€125K,€42.8M
+184431,S. Giovinco,31,https://cdn.sofifa.org/players/4/19/184431.png,Italy,41.87194,12.56738,Toronto FC,€20M,€15K,€30M
+184200,M. Arnautović,29,https://cdn.sofifa.org/players/4/19/184200.png,Austria,47.516231,14.550072,West Ham United,€22M,€120K,€41.8M
+184144,N. Gaitán,30,https://cdn.sofifa.org/players/4/19/184144.png,Argentina,-38.416097,-63.616671999999994,Dalian YiFang FC,€21M,€22K,€45.2M
+183574,M. Kruse,30,https://cdn.sofifa.org/players/4/19/183574.png,Germany,51.165690999999995,10.451526,SV Werder Bremen,€21.5M,€45K,€36.6M
+183498,M. Parolo,33,https://cdn.sofifa.org/players/4/19/183498.png,Italy,41.87194,12.56738,Lazio,€9M,€59K,€15.3M
+183376,L. Fejsa,29,https://cdn.sofifa.org/players/4/19/183376.png,Serbia,44.016521000000004,21.005859,SL Benfica,€17M,€18K,€34M
+183280,A. Rami,32,https://cdn.sofifa.org/players/4/19/183280.png,France,46.227638,2.213749,Olympique de Marseille,€12.5M,€57K,€23.8M
+181786,V. Ćorluka,32,https://cdn.sofifa.org/players/4/19/181786.png,Croatia,45.1,15.2,Lokomotiv Moscow,€12.5M,€1K,€26.3M
+181291,G. Wijnaldum,27,https://cdn.sofifa.org/players/4/19/181291.png,Netherlands,52.132633,5.291266,Liverpool,€23M,€130K,€43.7M
+179847,F. Fazio,31,https://cdn.sofifa.org/players/4/19/179847.png,Argentina,-38.416097,-63.616671999999994,Roma,€15M,€73K,€25.5M
+178509,O. Giroud,31,https://cdn.sofifa.org/players/4/19/178509.png,France,46.227638,2.213749,Chelsea,€20M,€140K,€37M
+173521,Marcano,31,https://cdn.sofifa.org/players/4/19/173521.png,Spain,40.463667,-3.7492199999999998,Roma,€15M,€73K,€25.5M
+171897,A. Guardado,31,https://cdn.sofifa.org/players/4/19/171897.png,Mexico,23.634501,-102.552784,Real Betis,€19M,€35K,€39.9M
+170481,E. Garay,31,https://cdn.sofifa.org/players/4/19/170481.png,Argentina,-38.416097,-63.616671999999994,Valencia CF,€15M,€44K,€31.5M
+168530,Jardel,32,https://cdn.sofifa.org/players/4/19/168530.png,Brazil,-14.235004,-51.92528,SL Benfica,€12.5M,€17K,€25M
+168435,S. Sirigu,31,https://cdn.sofifa.org/players/4/19/168435.png,Italy,41.87194,12.56738,Torino,€13.5M,€45K,€23M
+168354,E. Viviano,32,https://cdn.sofifa.org/players/4/19/168354.png,Italy,41.87194,12.56738,Sporting CP,€12.5M,€15K,€25M
+165229,L. Koscielny,32,https://cdn.sofifa.org/players/4/19/165229.png,France,46.227638,2.213749,Arsenal,€12.5M,€115K,€23.8M
+163489,A. Consigli,31,https://cdn.sofifa.org/players/4/19/163489.png,Italy,41.87194,12.56738,Sassuolo,€13.5M,€52K,€23M
+158963,L. Biglia,32,https://cdn.sofifa.org/players/4/19/158963.png,Argentina,-38.416097,-63.616671999999994,Milan,€12.5M,€98K,€21.3M
+146530,Dani Alves,35,https://cdn.sofifa.org/players/4/19/146530.png,Brazil,-14.235004,-51.92528,Paris Saint-Germain,€4.8M,€62K,€8.9M
+113422,David Villa,36,https://cdn.sofifa.org/players/4/19/113422.png,Spain,40.463667,-3.7492199999999998,New York City FC,€8M,€12K,€12M
+106231,Aduriz,37,https://cdn.sofifa.org/players/4/19/106231.png,Spain,40.463667,-3.7492199999999998,Athletic Club de Bilbao,€8M,€29K,€16.8M
+48940,P. Čech,36,https://cdn.sofifa.org/players/4/19/48940.png,Czech Republic,49.817492,15.472961999999999,Arsenal,€3M,€60K,€5.7M
+5479,Casillas,37,https://cdn.sofifa.org/players/4/19/5479.png,Spain,40.463667,-3.7492199999999998,FC Porto,€1.5M,€10K,€3M
+230271,Laure Santeiro,30,https://cdn.sofifa.org/players/4/19/230271.png,Brazil,-14.235004,-51.92528,Fluminense,€17M,€40K,€32.3M
+229906,L. Bailey,20,https://cdn.sofifa.org/players/4/19/229906.png,Jamaica,18.109581,-77.297508,Bayer 04 Leverkusen,€26.5M,€54K,€50.4M
+229237,M. Akanji,22,https://cdn.sofifa.org/players/4/19/229237.png,Switzerland,46.818188,8.227511999999999,Borussia Dortmund,€21M,€49K,€39.9M
+228702,F. de Jong,21,https://cdn.sofifa.org/players/4/19/228702.png,Netherlands,52.132633,5.291266,Ajax,€26M,€19K,€41.6M
+227928,Nélson Semedo,24,https://cdn.sofifa.org/players/4/19/227928.png,Portugal,39.399871999999995,-8.224454,FC Barcelona,€20M,€125K,€42.5M
+226456,Pablo Fornals,22,https://cdn.sofifa.org/players/4/19/226456.png,Spain,40.463667,-3.7492199999999998,Villarreal CF,€24M,€36K,€52.2M
+226271,Fabián,22,https://cdn.sofifa.org/players/4/19/226271.png,Spain,40.463667,-3.7492199999999998,Napoli,€26M,€64K,€49.4M
+222509,Dani Ceballos,21,https://cdn.sofifa.org/players/4/19/222509.png,Spain,40.463667,-3.7492199999999998,Real Madrid,€25M,€120K,€56.3M
+221992,H. Lozano,22,https://cdn.sofifa.org/players/4/19/221992.png,Mexico,23.634501,-102.552784,PSV,€24M,€22K,€35.4M
+216475,Morales,30,https://cdn.sofifa.org/players/4/19/216475.png,Spain,40.463667,-3.7492199999999998,Levante UD,€17M,€33K,€35.7M
+216409,M. Politano,24,https://cdn.sofifa.org/players/4/19/216409.png,Italy,41.87194,12.56738,Inter,€22.5M,€57K,
+216352,M. Brozović,25,https://cdn.sofifa.org/players/4/19/216352.png,Croatia,45.1,15.2,Inter,€18.5M,€64K,€32.8M
+216201,Williams,24,https://cdn.sofifa.org/players/4/19/216201.png,Spain,40.463667,-3.7492199999999998,Athletic Club de Bilbao,€24.5M,€31K,€56.4M
+214997,A. Correa,23,https://cdn.sofifa.org/players/4/19/214997.png,Argentina,-38.416097,-63.616671999999994,Atlético Madrid,€24.5M,€54K,€55.1M
+213661,A. Christensen,22,https://cdn.sofifa.org/players/4/19/213661.png,Denmark,56.26392,9.501785,Chelsea,€21.5M,€91K,€44.1M
+212814,João Mário,25,https://cdn.sofifa.org/players/4/19/212814.png,Portugal,39.399871999999995,-8.224454,Inter,€22.5M,€71K,€39.9M
+212151,T. Strakosha,23,https://cdn.sofifa.org/players/4/19/212151.png,Albania,41.153332,20.168331,Lazio,€17M,€36K,€30.2M
+210864,E. Hysaj,24,https://cdn.sofifa.org/players/4/19/210864.png,Albania,41.153332,20.168331,Napoli,€20M,€58K,€35.5M
+210406,P. Zieliński,24,https://cdn.sofifa.org/players/4/19/210406.png,Poland,51.919438,19.145135999999997,Napoli,€24.5M,€64K,€46.6M
+210243,Ricardo Pereira,24,https://cdn.sofifa.org/players/4/19/210243.png,Portugal,39.399871999999995,-8.224454,Leicester City,€19M,€64K,€37.5M
+210035,Grimaldo,22,https://cdn.sofifa.org/players/4/19/210035.png,Spain,40.463667,-3.7492199999999998,SL Benfica,€20.5M,€14K,€45.1M
+209889,R. Guerreiro,24,https://cdn.sofifa.org/players/4/19/209889.png,Portugal,39.399871999999995,-8.224454,Borussia Dortmund,€24M,€54K,€42.6M
+208135,A. Doucouré,25,https://cdn.sofifa.org/players/4/19/208135.png,France,46.227638,2.213749,Watford,€19.5M,€60K,€38.5M
+207877,J. Martínez,25,https://cdn.sofifa.org/players/4/19/207877.png,Venezuela,6.42375,-66.58973,Atlanta United,€22.5M,€14K,€35.4M
+207664,C. Bacca,31,https://cdn.sofifa.org/players/4/19/207664.png,Colombia,4.570868,-74.297333,Villarreal CF,€16M,€45K,€33.6M
+206467,A. Plea,25,https://cdn.sofifa.org/players/4/19/206467.png,France,46.227638,2.213749,Borussia Mönchengladbach,€22M,€40K,€39.1M
+205362,M. Nastasić,25,https://cdn.sofifa.org/players/4/19/205362.png,Serbia,44.016521000000004,21.005859,FC Schalke 04,€18.5M,€36K,€32.8M
+205175,A. Milik,24,https://cdn.sofifa.org/players/4/19/205175.png,Poland,51.919438,19.145135999999997,Napoli,€25.5M,€71K,€48.5M
+204923,M. Sabitzer,24,https://cdn.sofifa.org/players/4/19/204923.png,Austria,47.516231,14.550072,RB Leipzig,€22.5M,€54K,€39.9M
+204884,B. Mendy,23,https://cdn.sofifa.org/players/4/19/204884.png,France,46.227638,2.213749,Manchester City,€20M,€105K,€38.5M
+204024,C. Kramer,27,https://cdn.sofifa.org/players/4/19/204024.png,Germany,51.165690999999995,10.451526,Borussia Mönchengladbach,€17M,€35K,€30.2M
+203890,S. Vrsaljko,26,https://cdn.sofifa.org/players/4/19/203890.png,Croatia,45.1,15.2,Inter,€18M,€57K,
+203486,T. Hazard,25,https://cdn.sofifa.org/players/4/19/203486.png,Belgium,50.503887,4.469936,Borussia Mönchengladbach,€21.5M,€40K,€38.2M
+202857,K. Bellarabi,28,https://cdn.sofifa.org/players/4/19/202857.png,Germany,51.165690999999995,10.451526,Bayer 04 Leverkusen,€18M,€76K,€30.6M
+202685,S. Zaza,27,https://cdn.sofifa.org/players/4/19/202685.png,Italy,41.87194,12.56738,Torino,€21M,€48K,
+201454,F. Ghoulam,27,https://cdn.sofifa.org/players/4/19/201454.png,Algeria,28.033886,1.6596259999999998,Napoli,€16.5M,€68K,€29.3M
+200726,B. Lecomte,27,https://cdn.sofifa.org/players/4/19/200726.png,France,46.227638,2.213749,Montpellier HSC,€15M,€27K,€31.1M
+200647,J. Iličić,30,https://cdn.sofifa.org/players/4/19/200647.png,Slovenia,46.151241,14.995463,Atalanta,€17M,€41K,€28.9M
+200610,K. Volland,25,https://cdn.sofifa.org/players/4/19/200610.png,Germany,51.165690999999995,10.451526,Bayer 04 Leverkusen,€22M,€76K,€39.1M
+200454,Paco Alcácer,24,https://cdn.sofifa.org/players/4/19/200454.png,Spain,40.463667,-3.7492199999999998,Borussia Dortmund,€23.5M,€59K,€41.7M
+199715,Vitolo,28,https://cdn.sofifa.org/players/4/19/199715.png,Spain,40.463667,-3.7492199999999998,Atlético Madrid,€18M,€65K,€36.9M
+199503,G. Xhaka,25,https://cdn.sofifa.org/players/4/19/199503.png,Switzerland,46.818188,8.227511999999999,Arsenal,€22M,€115K,€43.5M
+199434,D. Tadić,29,https://cdn.sofifa.org/players/4/19/199434.png,Serbia,44.016521000000004,21.005859,Ajax,€17.5M,€26K,€24.5M
+199042,C. Aránguiz,29,https://cdn.sofifa.org/players/4/19/199042.png,Chile,-35.675146999999996,-71.542969,Bayer 04 Leverkusen,€17M,€76K,€28.9M
+196889,S. Verdi,25,https://cdn.sofifa.org/players/4/19/196889.png,Italy,41.87194,12.56738,Napoli,€19.5M,€77K,€33.2M
+195086,D. Lovren,28,https://cdn.sofifa.org/players/4/19/195086.png,Croatia,45.1,15.2,Liverpool,€16M,€115K,€31.6M
+193532,G. Medel,30,https://cdn.sofifa.org/players/4/19/193532.png,Chile,-35.675146999999996,-71.542969,Beşiktaş JK,€13M,€56K,€24.7M
+193348,X. Shaqiri,26,https://cdn.sofifa.org/players/4/19/193348.png,Switzerland,46.818188,8.227511999999999,Liverpool,€19M,€130K,€36.1M
+193165,J. Corona,25,https://cdn.sofifa.org/players/4/19/193165.png,Mexico,23.634501,-102.552784,FC Porto,€21.5M,€18K,€44.6M
+193105,A. Areola,25,https://cdn.sofifa.org/players/4/19/193105.png,France,46.227638,2.213749,Paris Saint-Germain,€16.5M,€61K,€31.8M
+192641,K. Vogt,26,https://cdn.sofifa.org/players/4/19/192641.png,Germany,51.165690999999995,10.451526,TSG 1899 Hoffenheim,€17.5M,€42K,€31.1M
+191740,Ander Herrera,28,https://cdn.sofifa.org/players/4/19/191740.png,Spain,40.463667,-3.7492199999999998,Manchester United,€17.5M,€140K,€32.4M
+190972,E. Salvio,27,https://cdn.sofifa.org/players/4/19/190972.png,Argentina,-38.416097,-63.616671999999994,SL Benfica,€18.5M,€19K,€37M
+190813,S. El Shaarawy,25,https://cdn.sofifa.org/players/4/19/190813.png,Italy,41.87194,12.56738,Roma,€21M,€77K,€37.3M
+189362,Hulk,31,https://cdn.sofifa.org/players/4/19/189362.png,Brazil,-14.235004,-51.92528,Shanghai SIPG FC,€15.5M,€25K,€34.1M
+189358,S. Kagawa,29,https://cdn.sofifa.org/players/4/19/189358.png,Japan,36.204824,138.252924,Borussia Dortmund,€17.5M,€65K,€29.8M
+188988,M. Lanzini,25,https://cdn.sofifa.org/players/4/19/188988.png,Argentina,-38.416097,-63.616671999999994,West Ham United,€23M,€90K,€45.4M
+187491,F. Smolov,28,https://cdn.sofifa.org/players/4/19/187491.png,Russia,61.52401,105.31875600000001,Lokomotiv Moscow,€18.5M,€1K,€38.9M
+187072,L. Stindl,29,https://cdn.sofifa.org/players/4/19/187072.png,Germany,51.165690999999995,10.451526,Borussia Mönchengladbach,€18M,€43K,€30.6M
+185239,O. Toprak,28,https://cdn.sofifa.org/players/4/19/185239.png,Turkey,38.963745,35.243322,Borussia Dortmund,€16M,€59K,€28.4M
+183900,D. Perotti,29,https://cdn.sofifa.org/players/4/19/183900.png,Argentina,-38.416097,-63.616671999999994,Roma,€17.5M,€84K,€29.8M
+182494,F. Muslera,32,https://cdn.sofifa.org/players/4/19/182494.png,Uruguay,-32.522779,-55.765834999999996,Galatasaray SK,€10M,€52K,€19M
+179784,B. Höwedes,30,https://cdn.sofifa.org/players/4/19/179784.png,Germany,51.165690999999995,10.451526,Lokomotiv Moscow,€13M,€1K,€27.3M
+179645,S. Kjær,29,https://cdn.sofifa.org/players/4/19/179645.png,Denmark,56.26392,9.501785,Sevilla FC,€14M,€23K,€29.4M
+177458,S. Bender,29,https://cdn.sofifa.org/players/4/19/177458.png,Germany,51.165690999999995,10.451526,Bayer 04 Leverkusen,€14M,€69K,€23.8M
+177326,M. Valbuena,33,https://cdn.sofifa.org/players/4/19/177326.png,France,46.227638,2.213749,Fenerbahçe SK,€11M,€86K,€20.9M
+175379,Pedro León,31,https://cdn.sofifa.org/players/4/19/175379.png,Spain,40.463667,-3.7492199999999998,SD Eibar,€15.5M,€32K,€32.6M
+173909,K. Boateng,31,https://cdn.sofifa.org/players/4/19/173909.png,Ghana,7.946527000000001,-1.0231940000000002,Sassuolo,€15M,€65K,€25.5M
+173771,L. Piszczek,33,https://cdn.sofifa.org/players/4/19/173771.png,Poland,51.919438,19.145135999999997,Borussia Dortmund,€7M,€57K,€11.9M
+173221,A. Candreva,31,https://cdn.sofifa.org/players/4/19/173221.png,Italy,41.87194,12.56738,Inter,€15.5M,€74K,€26.4M
+172522,D. Wass,29,https://cdn.sofifa.org/players/4/19/172522.png,Denmark,56.26392,9.501785,Valencia CF,€17M,€46K,€35.7M
+170368,E. Lamela,26,https://cdn.sofifa.org/players/4/19/170368.png,Argentina,-38.416097,-63.616671999999994,Tottenham Hotspur,€21M,€105K,€40.4M
+169416,C. Vela,29,https://cdn.sofifa.org/players/4/19/169416.png,Mexico,23.634501,-102.552784,Los Angeles FC,€17.5M,€15K,€26.3M
+169195,Renato Augusto,30,https://cdn.sofifa.org/players/4/19/169195.png,Brazil,-14.235004,-51.92528,Beijing Sinobo Guoan FC,€16.5M,€28K,€36.3M
+167905,A. Valencia,32,https://cdn.sofifa.org/players/4/19/167905.png,Ecuador,-1.8312389999999998,-78.183406,Manchester United,€10M,€120K,€18.5M
+164835,L. Fabiański,33,https://cdn.sofifa.org/players/4/19/164835.png,Poland,51.919438,19.145135999999997,West Ham United,€9M,€70K,€17.1M
+162347,João Moutinho,31,https://cdn.sofifa.org/players/4/19/162347.png,Portugal,39.399871999999995,-8.224454,Wolverhampton Wanderers,€15M,€85K,€28.5M
+161956,Borja Valero,33,https://cdn.sofifa.org/players/4/19/161956.png,Spain,40.463667,-3.7492199999999998,Inter,€11M,€74K,€18.7M
+159261,F. Quagliarella,35,https://cdn.sofifa.org/players/4/19/159261.png,Italy,41.87194,12.56738,Sampdoria,€8M,€39K,€13.6M
+159145,B. Gomis,32,https://cdn.sofifa.org/players/4/19/159145.png,France,46.227638,2.213749,Al Hilal,€14M,€56K,€23.8M
+157960,Manuel Fernandes,32,https://cdn.sofifa.org/players/4/19/157960.png,Portugal,39.399871999999995,-8.224454,Lokomotiv Moscow,€14M,€1K,€29.4M
+156519,H. Herrera,28,https://cdn.sofifa.org/players/4/19/156519.png,Mexico,23.634501,-102.552784,FC Porto,€17.5M,€20K,€35M
+144622,Raffael,33,https://cdn.sofifa.org/players/4/19/144622.png,Brazil,-14.235004,-51.92528,Borussia Mönchengladbach,€11M,€41K,€18.7M
+139068,Nani,31,https://cdn.sofifa.org/players/4/19/139068.png,Portugal,39.399871999999995,-8.224454,Sporting CP,€15.5M,€19K,€31M
+112316,J. Mathieu,34,https://cdn.sofifa.org/players/4/19/112316.png,France,46.227638,2.213749,Sporting CP,€5.5M,€18K,€11M
+45186,Joaquín,36,https://cdn.sofifa.org/players/4/19/45186.png,Spain,40.463667,-3.7492199999999998,Real Betis,€6M,€24K,€12.6M
+239207,M. Gómez,21,https://cdn.sofifa.org/players/4/19/239207.png,Uruguay,-32.522779,-55.765834999999996,RC Celta,€20.5M,€25K,€44.6M
+235790,K. Havertz,19,https://cdn.sofifa.org/players/4/19/235790.png,Germany,51.165690999999995,10.451526,Bayer 04 Leverkusen,€22M,€32K,€41.8M
+235569,T. Ndombele,21,https://cdn.sofifa.org/players/4/19/235569.png,France,46.227638,2.213749,Olympique Lyonnais,€22.5M,€51K,€47.3M
+234906,H. Aouar,20,https://cdn.sofifa.org/players/4/19/234906.png,France,46.227638,2.213749,Olympique Lyonnais,€23.5M,€51K,€49.4M
+234153,Carlos Soler,21,https://cdn.sofifa.org/players/4/19/234153.png,Spain,40.463667,-3.7492199999999998,Valencia CF,€21M,€31K,€48.3M
+234035,Odriozola,22,https://cdn.sofifa.org/players/4/19/234035.png,Spain,40.463667,-3.7492199999999998,Real Madrid,€18.5M,€115K,€41.6M
+230977,M. Almirón,24,https://cdn.sofifa.org/players/4/19/230977.png,Paraguay,-23.442503,-58.44383199999999,Atlanta United,€19.5M,€11K,€30.7M
+230347,Welington Dano,30,https://cdn.sofifa.org/players/4/19/230347.png,Brazil,-14.235004,-51.92528,Cruzeiro,€10.5M,€34K,€20M
+230234,Everton Andrão,34,https://cdn.sofifa.org/players/4/19/230234.png,Brazil,-14.235004,-51.92528,Fluminense,€4.5M,€34K,€8.5M
+230142,Oyarzabal,21,https://cdn.sofifa.org/players/4/19/230142.png,Spain,40.463667,-3.7492199999999998,Real Sociedad,€21M,€29K,€48.3M
+228229,F. Balbuena,26,https://cdn.sofifa.org/players/4/19/228229.png,Paraguay,-23.442503,-58.44383199999999,West Ham United,€15.5M,€80K,€30.6M
+227536,M. Marega,27,https://cdn.sofifa.org/players/4/19/227536.png,Mali,17.570692,-3.9961660000000006,FC Porto,€16M,€19K,€32M
+226851,B. Pavard,22,https://cdn.sofifa.org/players/4/19/226851.png,France,46.227638,2.213749,VfB Stuttgart,€17.5M,€33K,€33.3M
+226790,W. Ndidi,21,https://cdn.sofifa.org/players/4/19/226790.png,Nigeria,9.081999,8.675277000000001,Leicester City,€17M,€50K,€33.6M
+226753,A. Onana,22,https://cdn.sofifa.org/players/4/19/226753.png,Cameroon,7.369722,12.354722,Ajax,€14.5M,€14K,€21.4M
+226226,G. Lo Celso,22,https://cdn.sofifa.org/players/4/19/226226.png,Argentina,-38.416097,-63.616671999999994,Real Betis,€20M,€72K,
+224334,M. Acuña,26,https://cdn.sofifa.org/players/4/19/224334.png,Argentina,-38.416097,-63.616671999999994,Sporting CP,€12.5M,€16K,€25M
+224293,Rúben Neves,21,https://cdn.sofifa.org/players/4/19/224293.png,Portugal,39.399871999999995,-8.224454,Wolverhampton Wanderers,€20.5M,€59K,€43.1M
+221639,Mariano,24,https://cdn.sofifa.org/players/4/19/221639.png,Dominican Republic,18.735692999999998,-70.162651,Real Madrid,€20M,€140K,€42.5M
+221540,Raúl,28,https://cdn.sofifa.org/players/4/19/221540.png,Brazil,-14.235004,-51.92528,SC Braga,€12M,€19K,€24M
+220477,M. Caldara,24,https://cdn.sofifa.org/players/4/19/220477.png,Italy,41.87194,12.56738,Milan,€17.5M,€73K,€33.3M
+219985,M. Vecino,26,https://cdn.sofifa.org/players/4/19/219985.png,Uruguay,-32.522779,-55.765834999999996,Inter,€14.5M,€63K,€25.7M
+219809,T. Bakayoko,23,https://cdn.sofifa.org/players/4/19/219809.png,France,46.227638,2.213749,Milan,€17M,€85K,
+218339,M. Dahoud,22,https://cdn.sofifa.org/players/4/19/218339.png,Germany,51.165690999999995,10.451526,Borussia Dortmund,€20M,€50K,€38M
+216547,Rafa,25,https://cdn.sofifa.org/players/4/19/216547.png,Portugal,39.399871999999995,-8.224454,SL Benfica,€18.5M,€17K,€38.4M
+215785,K. Baldé,23,https://cdn.sofifa.org/players/4/19/215785.png,Senegal,14.497401000000002,-14.452361999999999,Inter,€20M,€65K,
+215316,G. Rulli,26,https://cdn.sofifa.org/players/4/19/215316.png,Argentina,-38.416097,-63.616671999999994,Real Sociedad,€14M,€26K,€30.5M
+214584,F. Armani,31,https://cdn.sofifa.org/players/4/19/214584.png,Argentina,-38.416097,-63.616671999999994,River Plate,€9M,€22K,€12.6M
+212692,Rony Lopes,22,https://cdn.sofifa.org/players/4/19/212692.png,Portugal,39.399871999999995,-8.224454,AS Monaco,€20M,€65K,€39.5M
+212623,Santi Mina,22,https://cdn.sofifa.org/players/4/19/212623.png,Spain,40.463667,-3.7492199999999998,Valencia CF,€20M,€40K,€43.5M
+211748,K. Demirbay,24,https://cdn.sofifa.org/players/4/19/211748.png,Germany,51.165690999999995,10.451526,TSG 1899 Hoffenheim,€19.5M,€37K,€34.6M
+211688,Gayà,23,https://cdn.sofifa.org/players/4/19/211688.png,Spain,40.463667,-3.7492199999999998,Valencia CF,€16.5M,€33K,€35.9M
+211575,André Gomes,24,https://cdn.sofifa.org/players/4/19/211575.png,Portugal,39.399871999999995,-8.224454,Everton,€19.5M,€130K,
+211256,N. Tagliafico,25,https://cdn.sofifa.org/players/4/19/211256.png,Argentina,-38.416097,-63.616671999999994,Ajax,€15M,€20K,€22.1M
+210896,M. Sanson,23,https://cdn.sofifa.org/players/4/19/210896.png,France,46.227638,2.213749,Olympique de Marseille,€19.5M,€47K,€38.5M
+209960,Pacheco,26,https://cdn.sofifa.org/players/4/19/209960.png,Spain,40.463667,-3.7492199999999998,Deportivo Alavés,€13M,€23K,€28.3M
+208333,E. Can,24,https://cdn.sofifa.org/players/4/19/208333.png,Germany,51.165690999999995,10.451526,Juventus,€19.5M,€91K,€33.6M
+208128,H. Çalhanoğlu,24,https://cdn.sofifa.org/players/4/19/208128.png,Turkey,38.963745,35.243322,Milan,€19.5M,€89K,€34.6M
+207862,M. Ginter,24,https://cdn.sofifa.org/players/4/19/207862.png,Germany,51.165690999999995,10.451526,Borussia Mönchengladbach,€15.5M,€28K,€27.5M
+207439,L. Paredes,24,https://cdn.sofifa.org/players/4/19/207439.png,Argentina,-38.416097,-63.616671999999994,,€0,€0,
+206413,T. Stepanenko,28,https://cdn.sofifa.org/players/4/19/206413.png,Ukraine,48.379433,31.16558,Shakhtar Donetsk,€12M,€1K,€25.2M
+205705,Z. Feddal,28,https://cdn.sofifa.org/players/4/19/205705.png,Morocco,31.791702,-7.09262,Real Betis,€12M,€29K,€25.2M
+205693,S. Haller,24,https://cdn.sofifa.org/players/4/19/205693.png,France,46.227638,2.213749,Eintracht Frankfurt,€19M,€41K,€33.7M
+205525,Bernard,25,https://cdn.sofifa.org/players/4/19/205525.png,Brazil,-14.235004,-51.92528,Everton,€17.5M,€97K,€34.6M
+205114,T. Inui,30,https://cdn.sofifa.org/players/4/19/205114.png,Japan,36.204824,138.252924,Real Betis,€14M,€30K,€29.4M
+205070,Portu,26,https://cdn.sofifa.org/players/4/19/205070.png,Spain,40.463667,-3.7492199999999998,Girona FC,€17.5M,€37K,€38.1M
+204529,M. Batshuayi,24,https://cdn.sofifa.org/players/4/19/204529.png,Belgium,50.503887,4.469936,Valencia CF,€19.5M,€105K,
+204399,E. Zahavi,30,https://cdn.sofifa.org/players/4/19/204399.png,Israel,31.046051000000002,34.851612,Guangzhou R&F; FC,€14.5M,€24K,€31.2M
+204120,T. Vaclík,29,https://cdn.sofifa.org/players/4/19/204120.png,Czech Republic,49.817492,15.472961999999999,Sevilla FC,€11.5M,€17K,€25M
+203747,Héctor Bellerín,23,https://cdn.sofifa.org/players/4/19/203747.png,Spain,40.463667,-3.7492199999999998,Arsenal,€16.5M,€85K,€32.6M
+203605,P. Kadeřábek,26,https://cdn.sofifa.org/players/4/19/203605.png,Czech Republic,49.817492,15.472961999999999,TSG 1899 Hoffenheim,€14M,€39K,€24.9M
+202849,J. Vestergaard,25,https://cdn.sofifa.org/players/4/19/202849.png,Denmark,56.26392,9.501785,Southampton,€14.5M,€51K,€28.6M
+202477,Deulofeu,24,https://cdn.sofifa.org/players/4/19/202477.png,Spain,40.463667,-3.7492199999999998,Watford,€18.5M,€56K,€36.5M
+201377,J. Murillo,26,https://cdn.sofifa.org/players/4/19/201377.png,Colombia,4.570868,-74.297333,Valencia CF,€16M,€38K,€34.8M
+201144,M. Badelj,29,https://cdn.sofifa.org/players/4/19/201144.png,Croatia,45.1,15.2,Lazio,€11.5M,€53K,€19.6M
+201119,Ismaily,28,https://cdn.sofifa.org/players/4/19/201119.png,Brazil,-14.235004,-51.92528,Shakhtar Donetsk,€11.5M,€1K,€24.2M
+200536,N. Schulz,25,https://cdn.sofifa.org/players/4/19/200536.png,Germany,51.165690999999995,10.451526,TSG 1899 Hoffenheim,€14.5M,€37K,€25.7M
+200458,L. Digne,24,https://cdn.sofifa.org/players/4/19/200458.png,France,46.227638,2.213749,Everton,€16M,€79K,€31.6M
+200318,M. Uth,26,https://cdn.sofifa.org/players/4/19/200318.png,Germany,51.165690999999995,10.451526,FC Schalke 04,€17.5M,€42K,€31.1M
+200315,Cristian Tello,26,https://cdn.sofifa.org/players/4/19/200315.png,Spain,40.463667,-3.7492199999999998,Real Betis,€16M,€30K,€33.6M
+199206,D. Vida,29,https://cdn.sofifa.org/players/4/19/199206.png,Croatia,45.1,15.2,Beşiktaş JK,€11.5M,€55K,€21.9M
+199110,L. Muriel,27,https://cdn.sofifa.org/players/4/19/199110.png,Colombia,4.570868,-74.297333,Sevilla FC,€17.5M,€24K,€38.1M
+199069,V. Aboubakar,26,https://cdn.sofifa.org/players/4/19/199069.png,Cameroon,7.369722,12.354722,FC Porto,€18M,€19K,€37.4M
+197061,J. Matip,26,https://cdn.sofifa.org/players/4/19/197061.png,Cameroon,7.369722,12.354722,Liverpool,€15M,€99K,€29.6M
+195861,Y. Rakitskyi,28,https://cdn.sofifa.org/players/4/19/195861.png,Ukraine,48.379433,31.16558,Shakhtar Donetsk,€12M,€1K,€25.2M
+194879,Sergi Enrich,28,https://cdn.sofifa.org/players/4/19/194879.png,Spain,40.463667,-3.7492199999999998,SD Eibar,€15.5M,€34K,€32.6M
+194794,A. Yarmolenko,28,https://cdn.sofifa.org/players/4/19/194794.png,Ukraine,48.379433,31.16558,West Ham United,€15M,€92K,€28.5M
+194229,Hugo Mallo,27,https://cdn.sofifa.org/players/4/19/194229.png,Spain,40.463667,-3.7492199999999998,RC Celta,€13.5M,€27K,€29.4M
+194022,André Almeida,27,https://cdn.sofifa.org/players/4/19/194022.png,Portugal,39.399871999999995,-8.224454,SL Benfica,€12M,€15K,€24M
+193886,D. Didavi,28,https://cdn.sofifa.org/players/4/19/193886.png,Germany,51.165690999999995,10.451526,VfB Stuttgart,€15M,€44K,€25.5M
+193352,R. Rodríguez,25,https://cdn.sofifa.org/players/4/19/193352.png,Switzerland,46.818188,8.227511999999999,Milan,€15.5M,€81K,€27.5M
+193061,R. Pereyra,27,https://cdn.sofifa.org/players/4/19/193061.png,Argentina,-38.416097,-63.616671999999994,Watford,€15.5M,€65K,€29.5M
+192789,Mario Gaspar,27,https://cdn.sofifa.org/players/4/19/192789.png,Spain,40.463667,-3.7492199999999998,Villarreal CF,€12M,€35K,€25.2M
+191687,Maicon,29,https://cdn.sofifa.org/players/4/19/191687.png,Brazil,-14.235004,-51.92528,Galatasaray SK,€11.5M,€63K,€21.9M
+190815,D. Blind,28,https://cdn.sofifa.org/players/4/19/190815.png,Netherlands,52.132633,5.291266,Ajax,€12M,€22K,€16.8M
+190778,J. Zoet,27,https://cdn.sofifa.org/players/4/19/190778.png,Netherlands,52.132633,5.291266,PSV,€12.5M,€16K,€18.4M
+190544,A. Ljajić,26,https://cdn.sofifa.org/players/4/19/190544.png,Serbia,44.016521000000004,21.005859,Beşiktaş JK,€17.5M,€52K,
+190286,Canales,27,https://cdn.sofifa.org/players/4/19/190286.png,Spain,40.463667,-3.7492199999999998,Real Betis,€15.5M,€30K,€32.6M
+190264,Iago Falqué,28,https://cdn.sofifa.org/players/4/19/190264.png,Spain,40.463667,-3.7492199999999998,Torino,€15M,€59K,€25.5M
+189805,L. de Jong,27,https://cdn.sofifa.org/players/4/19/189805.png,Netherlands,52.132633,5.291266,PSV,€16M,€23K,€22.4M
+189690,Guaita,31,https://cdn.sofifa.org/players/4/19/189690.png,Spain,40.463667,-3.7492199999999998,Crystal Palace,€9M,€48K,€17.1M
+189575,Muniain,25,https://cdn.sofifa.org/players/4/19/189575.png,Spain,40.463667,-3.7492199999999998,Athletic Club de Bilbao,€18.5M,€31K,€40.2M
+189354,Susaeta,30,https://cdn.sofifa.org/players/4/19/189354.png,Spain,40.463667,-3.7492199999999998,Athletic Club de Bilbao,€14M,€33K,€29.4M
+189251,S. Rudy,28,https://cdn.sofifa.org/players/4/19/189251.png,Germany,51.165690999999995,10.451526,FC Schalke 04,€12M,€37K,€20.4M
+188943,K. Trapp,27,https://cdn.sofifa.org/players/4/19/188943.png,Germany,51.165690999999995,10.451526,Eintracht Frankfurt,€11.5M,€61K,
+188942,V. Wanyama,27,https://cdn.sofifa.org/players/4/19/188942.png,Kenya,-0.023559,37.906193,Tottenham Hotspur,€14.5M,€86K,€27.9M
+188829,N. Nkoulou,28,https://cdn.sofifa.org/players/4/19/188829.png,Cameroon,7.369722,12.354722,Torino,€12M,€50K,€20.4M
+188388,R. Boudebouz,28,https://cdn.sofifa.org/players/4/19/188388.png,Algeria,28.033886,1.6596259999999998,Real Betis,€15M,€31K,€31.5M
+188005,Camacho,28,https://cdn.sofifa.org/players/4/19/188005.png,Spain,40.463667,-3.7492199999999998,VfL Wolfsburg,€13.5M,€51K,€24M
+186569,S. Ulreich,29,https://cdn.sofifa.org/players/4/19/186569.png,Germany,51.165690999999995,10.451526,FC Bayern München,€10M,€61K,€16.5M
+186547,M. Musacchio,27,https://cdn.sofifa.org/players/4/19/186547.png,Argentina,-38.416097,-63.616671999999994,Milan,€12.5M,€85K,€21.3M
+186537,C. Stuani,31,https://cdn.sofifa.org/players/4/19/186537.png,Uruguay,-32.522779,-55.765834999999996,Girona FC,€13.5M,€41K,€28.4M
+185122,P. Gulácsi,28,https://cdn.sofifa.org/players/4/19/185122.png,Hungary,47.162494,19.503304,RB Leipzig,€10.5M,€45K,€17.9M
+184120,Bruno,34,https://cdn.sofifa.org/players/4/19/184120.png,Spain,40.463667,-3.7492199999999998,Villarreal CF,€7M,€39K,€14.7M
+180334,Marcelo,31,https://cdn.sofifa.org/players/4/19/180334.png,Brazil,-14.235004,-51.92528,Olympique Lyonnais,€10M,€64K,€19M
+180175,Alexandre Pato,28,https://cdn.sofifa.org/players/4/19/180175.png,Brazil,-14.235004,-51.92528,Tianjin Quanjian FC,€15.5M,€35K,€33.3M
+178424,Antunes,31,https://cdn.sofifa.org/players/4/19/178424.png,Portugal,39.399871999999995,-8.224454,Getafe CF,€9.5M,€27K,€20M
+177604,Nacho Monreal,32,https://cdn.sofifa.org/players/4/19/177604.png,Spain,40.463667,-3.7492199999999998,Arsenal,€8M,€99K,€15.2M
+177600,Beñat,31,https://cdn.sofifa.org/players/4/19/177600.png,Spain,40.463667,-3.7492199999999998,Athletic Club de Bilbao,€12.5M,€30K,€26.3M
+176915,A. Fernández,32,https://cdn.sofifa.org/players/4/19/176915.png,Argentina,-38.416097,-63.616671999999994,Beijing Renhe FC,€11M,€20K,€23.7M
+176600,K. Gameiro,31,https://cdn.sofifa.org/players/4/19/176600.png,France,46.227638,2.213749,Valencia CF,€13.5M,€45K,€28.4M
+176376,I. Piatti,33,https://cdn.sofifa.org/players/4/19/176376.png,Argentina,-38.416097,-63.616671999999994,Montreal Impact,€9M,€13K,€13.5M
+176104,V. Birsa,31,https://cdn.sofifa.org/players/4/19/176104.png,Slovenia,46.151241,14.995463,Chievo Verona,€13M,€23K,€22.1M
+173373,S. Romero,31,https://cdn.sofifa.org/players/4/19/173373.png,Argentina,-38.416097,-63.616671999999994,Manchester United,€9M,€91K,€16.7M
+173208,D. Criscito,31,https://cdn.sofifa.org/players/4/19/173208.png,Italy,41.87194,12.56738,Genoa,€10M,€21K,€17M
+172114,D. Valeri,32,https://cdn.sofifa.org/players/4/19/172114.png,Argentina,-38.416097,-63.616671999999994,Portland Timbers,€11.5M,€12K,€17.3M
+171579,Raúl García,31,https://cdn.sofifa.org/players/4/19/171579.png,Spain,40.463667,-3.7492199999999998,Athletic Club de Bilbao,€13M,€30K,€27.3M
+170815,S. Defour,30,https://cdn.sofifa.org/players/4/19/170815.png,Belgium,50.503887,4.469936,Burnley,€13.5M,€65K,€25.7M
+166706,M. Škrtel,33,https://cdn.sofifa.org/players/4/19/166706.png,Slovakia,48.669026,19.699023999999998,Fenerbahçe SK,€6M,€68K,€11.4M
+165109,S. Radu,31,https://cdn.sofifa.org/players/4/19/165109.png,Romania,45.943160999999996,24.96676,Lazio,€10M,€51K,€17M
+163711,L. Diarra,33,https://cdn.sofifa.org/players/4/19/163711.png,France,46.227638,2.213749,Paris Saint-Germain,€6M,€75K,€11.1M
+159147,L. Perrin,32,https://cdn.sofifa.org/players/4/19/159147.png,France,46.227638,2.213749,AS Saint-Étienne,€8.5M,€37K,€16.2M
+158625,Dante,34,https://cdn.sofifa.org/players/4/19/158625.png,Brazil,-14.235004,-51.92528,OGC Nice,€4.5M,€37K,€8.5M
+156713,A. Granqvist,33,https://cdn.sofifa.org/players/4/19/156713.png,Sweden,60.128161,18.643501,,€0,€0,
+153244,A. Gignac,32,https://cdn.sofifa.org/players/4/19/153244.png,France,46.227638,2.213749,Tigres U.A.N.L.,€12M,€70K,€19.2M
+150418,M. Gómez,32,https://cdn.sofifa.org/players/4/19/150418.png,Germany,51.165690999999995,10.451526,VfB Stuttgart,€12M,€46K,€20.4M
