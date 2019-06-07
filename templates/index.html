@@ -39,7 +39,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <title>Fifa Clubs</title>
-<script>
+<script class=playertable>
   
 // Country data
 var data = {{dat}};
@@ -70,12 +70,19 @@ $(document).ready(function(){
 });
 
 function refinedata(clubname) {
-    tableinfo="";
-    for (i in data) {
+    var tableinfo="";
+	var latln=[];
+	var lat="";
+	var lon="";
+	
+	for (i in data) {
         if (data[i].Value==clubname){
             tableinfo += '<tr><td scope="row">'+data[i].Name+'</td><td>'+data[i].Age+'</td><td><img src="'+data[i].Photo+'"></td><td>'+data[i].Country+'</td></tr>';
+			var marker = L.marker([data[i].Location.replace('"', ""), data[i].Club.replace('"', "")], {title: data[i].Name}).addTo(myMap);
+			
         }
     }
+
     $("#demor").html('');
     $("#demor").html(tablestart+tableinfo+'</tbody></table>');
 }
@@ -122,72 +129,23 @@ function refinedata(clubname) {
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-    
-          </li>
-          <!-- <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Football Clubs
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">We could add them but you have 100 teams</a>
-              <a class="dropdown-item" href="#">Another action</a>
-			  
-			  
-			  
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-          </li> -->
-        </ul>
-        <!-- <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-dark" type="submit">Search</button> -->
-        </form>
-		
-      </div>
-    </nav>
-
-    <div class="container">
-      <div class="row"> 
-        <div class="col"> 
-            <div class="card" style="width: 30rem;">
-                <!-- <img class="card-img-top " src="Barcelona.png" style="width:90px;height:90px; alt="Card image cap"> -->
-                <div class="card-body">
+			<div class="card-body">
                   <h5 class="card-title">FOOTBALL CLUBS
                   </h5>
 				  <select id="clubs" onchange="refinedata(this.value)">
                 </select>
                   <!-- <p class="card-text"> Location: Barcelona, Catalonia, Spain</p> -->
                 </div>
-              </div>
-        </div>
-        <div class="col"> <div id="map" class="map"> 
-            <img src="Map_template.png" style="width:450px;height:250px"class="img-thumbnail float-right" alt="...">
-          </div>
-        </div>
-      </div> 
-    </div>
-    <script> 	
+          </li>
+       
+        </ul>
+		
+      </div>
+    </nav>
 
-console.log(data);
-var myMap = L.map("map", {
-  center: [15.5994, -28.6731],
-  zoom: 3
-});
-
-var API_KEY = 'pk.eyJ1IjoiZWxtYWRkaW5rYXJpbW92IiwiYSI6ImNqdnI4M3VocjJycnc0M211bWxwYTd3aXQifQ.If0Cc0NHdFbU4ojaK0gTog';
-
-L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
- //attribution: "Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>",
- maxZoom: 18,
- id: "mapbox.streets-basic",
- accessToken: API_KEY
-}).addTo(myMap);
-
-  </script>
-  
-
-    <div class="container">
+  <table style="width:100%;height:100%;" border=1>
+  <tr>
+  <td><div class="container">
       <div class="row-table">  
         <div class="col" id='demor'> 
       
@@ -196,7 +154,38 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
             <div class="circle"><h1>$100M
               </h1></div> -->
         </div> 
-      </div>
+      </div></td><td> <div class="col"> <div id="map" class="map"> 
+            <img src="Map_template.png" style="width:600px;height:500px"class="img-thumbnail float-right" alt="...">
+          </div></td>
+  </tr>
+  </table>
+       
+        </div>
+      </div> 
+    </div>
+    <script> 	
+
+
+var myMap = L.map("map", {
+  center: [15.5994, -28.6731],
+  zoom: 3
+});
+
+var API_KEY = 'pk.eyJ1IjoiZWxtYWRkaW5rYXJpbW92IiwiYSI6ImNqdnI4M3VocjJycnc0M211bWxwYTd3aXQifQ.If0Cc0NHdFbU4ojaK0gTog';
+
+L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
+
+ //attribution: "Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>",
+ maxZoom: 18,
+ id: "mapbox.streets-basic",
+ accessToken: API_KEY
+}).addTo(myMap);
+
+
+ </script>	
+  
+
+    
     </div>
 
 
@@ -210,22 +199,8 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 
 </h1></div>
 
-<!-- <div class="container">
-    <div class="row">
-      <div class="col-4">
-          <svg class="bar-chart"></svg>
-      </div>
-      <div class="col-4">
-          <svg class="pie-chart"></svg>
-      </div>
-    </div>
-</div>
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script type="text/javascript" src="index.js"></script> -->
-
-
 <p> 
-  By Rustem, Elmaddin and Shaun!!! (The design rating on this project is 10/10)
+  By Rustem, Elmaddin and Shaun!!!
 </p>
   </body>
 </html>
